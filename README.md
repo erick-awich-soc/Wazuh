@@ -1,5 +1,7 @@
 # Wazuh Labs
 
+**PLEASE NOTE : OPEN FILE COMMIT DETAILS IN ORDER TO SEE A DETAILED DESCRIPTION OF EACH FILE**
+
 ## Overview
 This repository documents my hands-on labs and practical learning using Wazuh, an open-source security platform used for security monitoring, threat detection, vulnerability detection, and incident response.
 
